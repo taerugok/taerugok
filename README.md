@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I am Tejasri Aerugokula.</h1>
+<h1 align="center"><i></i> Hi, I am Tejasri Aerugokula.</i></h1>
 
 <h3 align="center">Seasoned software engineer with 3+ years of experience, driven by innovation and committed to delivering impactful, scalable solutions.</h3>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/TAerugokula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TAerugokula" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tejasri-aerugokula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-krishna-chinta-866a1b137" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejasri-aerugokula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasri-aerugokula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
