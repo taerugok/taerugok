@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I am Tejasri Aerugokula
 
-<!--
-**taerugok/taerugok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seasoned software engineer with 3+ years of experience, driven by innovation and committed to delivering impactful, scalable solutions.
 
-Here are some ideas to get you started:
+💡 Tech enthusiast with a knack for building AI-driven and cloud-based solutions.
+📈 On a journey to master AWS, Machine Learning, and scalable systems.
+🔍 Always exploring new challenges in Python, Java, React, and Streamlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
