@@ -8,6 +8,7 @@ Seasoned software engineer with 3+ years of experience, driven by innovation and
 
 
 🛠 Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
