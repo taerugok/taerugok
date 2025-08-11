@@ -2,8 +2,11 @@ Hi, I am Tejasri Aerugokula
 
 Seasoned software engineer with 3+ years of experience, driven by innovation and committed to delivering impactful, scalable solutions.
 
+
 💡 Tech enthusiast with a knack for building AI-driven and cloud-based solutions.
+
 📈 On a journey to master AWS, Machine Learning, and scalable systems.
+
 🔍 Always exploring new challenges in Python, Java, React, and Streamlit.
 
 
