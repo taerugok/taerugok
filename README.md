@@ -1,6 +1,6 @@
 <h1 align="center"><i></i> Hi, I am Tejasri Aerugokula.</i></h1>
 
-<h3 align="center">Seasoned software engineer with 3+ years of experience, driven by innovation and committed to delivering impactful, scalable solutions.</h3>
+<h3 align="center">Seasoned software engineer with 3+ years of full time experience and 1+ years of internship experience, driven by innovation and committed to delivering impactful, scalable solutions.</h3>
 
 
 - 💡 Tech enthusiast with a knack for building AI-driven and cloud-based solutions.
